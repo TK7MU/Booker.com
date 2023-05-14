@@ -1,0 +1,2 @@
+class Meshitero < ApplicationRecord
+end
